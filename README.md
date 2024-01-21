@@ -7,8 +7,8 @@ işlemleri yapılmaktadır.
 
 ## Projeyi Çalıştırma 
 
-### petlebi_scrapy.py
-------------------------
+### petlebi_scrapy.py dosyasını çalıştırma
+   
 - petlebi_scrapy.py dosyasını yürütmek için direkt olarak çalıştırmak yeterlidir.
 - Diğer bir yöntem ise terminalden
 
@@ -21,8 +21,8 @@ Proje dosyası çalıştırıldıktan sonra çıktı olarak [petlebi_products.js
 
 ![image](https://github.com/rumeysaustun/MulakatProjesi/assets/59111328/2ebd4002-2cc3-49dc-ac07-edd691004ee8)
 
-### petlebi_insert.py
-----------------------------------------
+### petlebi_insert.py dosyasını çalıştırma
+   
 - petlebi_insert.py dosyasını yürütmek için direkt olarak çalıştırmak yeterlidir.
 Proje dosyası çalıştırıldıktan sonra Json dosyasında bulunan veriler petlebi tablosuna eklenir.
 
