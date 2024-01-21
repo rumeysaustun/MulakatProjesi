@@ -1,8 +1,8 @@
 # Mülakat Projesi
 
 Projede;
-- www.petlebi.com'dan veri çekme işlemi ve verileri Json dosyasına yazma ((petlebi_scrapy.py)[https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_scrapy.py]),
-- Json dosyasında bulunan verileri MySql veri tabanına atma ((import_products.py)[https://github.com/rumeysaustun/MulakatProjesi/blob/main/import_products.py])
+- www.petlebi.com'dan veri çekme işlemi ve verileri Json dosyasına yazma ([petlebi_scrapy.py](https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_scrapy.py)),
+- Json dosyasında bulunan verileri MySql veri tabanına atma ([import_products.py](https://github.com/rumeysaustun/MulakatProjesi/blob/main/import_products.py))
 işlemleri yapılmaktadır.
 
 ## Projeyi Çalıştırma 
@@ -17,7 +17,7 @@ py -m scrapy runspider petlebi_scrapy.py
 ```
 komutu yazmak yeterlidir. 
 
-Proje dosyası çalıştırıldıktan sonra çıktı olarak (petlebi_products.json)[https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_products.json] dosyasını vermektedir.
+Proje dosyası çalıştırıldıktan sonra çıktı olarak [petlebi_products.json](https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_products.json) dosyasını vermektedir.
 
 ![image](https://github.com/rumeysaustun/MulakatProjesi/assets/59111328/2ebd4002-2cc3-49dc-ac07-edd691004ee8)
 
