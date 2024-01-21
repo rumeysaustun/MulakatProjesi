@@ -1,7 +1,7 @@
 # Mülakat Projesi
 
 Projede;
-- www.petlebi.com'dan veri çekme işlemi ve verileri Json dosyasına yazma ([petlebi_scrapy.py](https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_scrapy.py)),
+- www.petlebi.com sitesinden veri çekme işlemi ve verileri Json dosyasına yazma ([petlebi_scrapy.py](https://github.com/rumeysaustun/MulakatProjesi/blob/main/petlebi_scrapy.py)),
 - Json dosyasında bulunan verileri MySql veri tabanına atma ([import_products.py](https://github.com/rumeysaustun/MulakatProjesi/blob/main/import_products.py))
 işlemleri yapılmaktadır.
 
@@ -37,6 +37,8 @@ Proje dosyası çalıştırıldıktan sonra Json dosyasında bulunan veriler pet
  - sku (varchar(255))
  - category (varchar(255))
  - brand (varchar(255))
+
+![image](https://github.com/rumeysaustun/MulakatProjesi/assets/59111328/a9913118-d9e7-4269-b8c1-f5f5ce937c94)
 
 
 
